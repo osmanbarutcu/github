@@ -27,8 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=osmanbarutcu&show_icons=true&theme=radical">
 </summary>
 </details>
-<summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanbarutcu&layout=compact">
-</summary>
+
 
 
