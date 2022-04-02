@@ -22,7 +22,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50px;">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="50px;">
 <details>
-</br>
+<br/>
 <summary>
 <img src="https://github-readme-stats.vercel.app/api?username=osmanbarutcu&show_icons=true&theme=radical">
 </summary>
