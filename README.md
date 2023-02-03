@@ -24,3 +24,4 @@
 <br>
 <br>
 <br>
+<a href="https://wakatime.com/@6ba994e3-114d-4d7c-b183-9e7f02abef86"><img src="https://wakatime.com/badge/user/6ba994e3-114d-4d7c-b183-9e7f02abef86.svg" alt="Total time coded since Jan 28 2023" /></a>
