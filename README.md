@@ -6,7 +6,6 @@
 
 #### Reach out me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/osmanbarutcu) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/osman.brtc/) 
 [![Linkedln Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=whidth:20px%20for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-barutcu-598680178/) 
 #
 #### Wakatime
