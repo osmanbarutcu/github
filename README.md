@@ -1,4 +1,4 @@
-### Hi there, I'm Osman.:computer:
+### Hi there, I'm Osman.💻
 #### Cyber Security Researcher | Software Developer
 #
 
@@ -7,6 +7,7 @@
 #### Reach out me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/osmanbarutcu) 
 [![Linkedln Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=whidth:20px%20for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-barutcu-598680178/) 
+(https://osmanbarutcu.com) 
 #
 #### Wakatime
 <a href="https://wakatime.com/@6ba994e3-114d-4d7c-b183-9e7f02abef86"><img src="https://wakatime.com/badge/user/6ba994e3-114d-4d7c-b183-9e7f02abef86.svg" alt="Total time coded since Jan 28 2023" /></a>
